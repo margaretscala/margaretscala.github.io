@@ -11,7 +11,7 @@ header{
 
     color: #FAFCEF;
     padding-bottom: 5%;
- /*additional styling here*/
+
  }
  
 
@@ -50,6 +50,7 @@ main{
     padding-top: 5%;
     padding-bottom: 5%;
     width: fill;
+    margin: 0;
 }
 .container{
     color: #FAFCEF;
@@ -61,17 +62,23 @@ main{
     text-align:left;
     padding-top: 5%;
     padding-bottom: 5%;
+    margin: 0;
 
 }
 
 .solo{
     font-size: 40px;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .frequency{
     font-size: 50px;
     background-color: #F9F1E5;
     color: black;
+    width: 100%;
+    margin: 0;
+
 }
 
 a:link {
@@ -84,6 +91,11 @@ a:link {
   .graphs{
     background-color: #F9F1E5;
     color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   width: 100%;
+   margin: 0;
+
   }
 
   .text{
@@ -98,5 +110,10 @@ a:link {
   .ending{
     background-color: #F9F1E5;
     color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+    margin: 0;
+ 
    
   }
