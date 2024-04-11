@@ -9,7 +9,7 @@ header{
     background-size: cover;
     background-position: center;
 
-    color: white;
+    color: #FAFCEF;
     padding-bottom: 5%;
  /*additional styling here*/
  }
@@ -31,7 +31,7 @@ header{
             font-size: 1.1em;
             letter-spacing: 1px;
             text-align: center;
-            color: white;
+            color: #FAFCEF;
        
 
     }
@@ -65,5 +65,38 @@ main{
 }
 
 .solo{
-    font-size: 21px;
+    font-size: 40px;
 }
+
+.frequency{
+    font-size: 50px;
+    background-color: #F9F1E5;
+    color: black;
+}
+
+a:link {
+    color: #E18D58;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .graphs{
+    background-color: #F9F1E5;
+    color: black;
+  }
+
+  .text{
+    color:black;
+
+  }
+
+  .writing{
+    color: #0C0E0C;
+  }
+
+  .ending{
+    background-color: #F9F1E5;
+    color: black;
+   
+  }
