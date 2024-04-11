@@ -50,7 +50,6 @@ main{
     padding-top: 5%;
     padding-bottom: 5%;
     width: fill;
-    margin: 0;
 }
 .container{
     color: #FAFCEF;
@@ -62,7 +61,7 @@ main{
     text-align:left;
     padding-top: 5%;
     padding-bottom: 5%;
-    margin: 0;
+    width: 65%;
 
 }
 
@@ -72,14 +71,7 @@ main{
     padding-bottom: 5%;
 }
 
-.frequency{
-    font-size: 50px;
-    background-color: #F9F1E5;
-    color: black;
-    width: 100%;
-    margin: 0;
 
-}
 
 a:link {
     color: #E18D58;
@@ -98,6 +90,14 @@ a:link {
 
   }
 
+
+  .graphs h2{
+    font-size: 50px;
+    background-color: #F9F1E5;
+    color: black;
+    width: 100%;
+    margin: 0;
+  }
   .text{
     color:black;
 
