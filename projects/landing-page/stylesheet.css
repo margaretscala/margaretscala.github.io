@@ -1,0 +1,41 @@
+
+header{
+padding: 30% 5%;
+min-height: 100vh;
+text-shadow: 10px 10px 20px #5D5E4F;
+background-image: url('l.heic');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+color: #FAFCEF;
+padding-bottom: 5%;}
+
+
+body{
+    text-align: center;
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: gainsboro;
+}
+
+h1{
+    font-size: 95px;
+    color:indianred;
+}
+
+h2{
+    font-size: 50px;
+    color:darkblue;
+    font-weight: bolder;
+}
+
+.pics{
+    padding: 50px, 20px, 50px, 20px;
+    background-color: beige;
+}
+
+.container{
+    font-size: 35px;
+}
