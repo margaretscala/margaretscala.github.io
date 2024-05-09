@@ -1,0 +1,65 @@
+blockquote{
+    font-size: 35px;
+    color: rgb(12, 12, 178);
+    text-shadow: 10px 10px 20px  rgb(147, 7, 7);
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-size: fill;
+}
+
+h1{
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(7, 7, 126);
+}
+
+body{
+    font-family: "Play", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+header{
+    padding: 30% 5%;
+    min-height: 100vh;
+    text-shadow: 10px 10px 20px #08024a;
+    background-image: url('robbie-wright/robbie-full-face.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 55px;
+    font-weight: bolder;
+    
+    color: #0e21d0;
+    padding-bottom: 5%;}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 30;
+    padding-left: 70px;
+    padding-right: 70px ;
+}
+
+.caption{
+    font-size: 14px;
+}
+
+.data{
+    align-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pics{
+    align-content: center;
+}
